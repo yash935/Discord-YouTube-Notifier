@@ -1,7 +1,7 @@
 config:
     connection:
         Google API key: AIzaSyAuCGEUKMCeW5P9sTk96a9hsunAtmnwGNo
-        Discord bot token: # Discord bot token
+        Discord bot token: NjcyNDE1Mzk3MTAxODMwMTYy.XjlUlQ.kgY4CN8tWksm2x4AQgt_UqK2MKs # Discord bot token
     main:
         Ping Every x Minutes: 5 # 5-15 minutes should be ok, anything lower not recommended, because the API traffic will be used up very quickly otherwise.
     Discord Channel:
