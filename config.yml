@@ -13,8 +13,8 @@ config:
       
     YouTubers:
         0:
-            name: # Name that will be displayed in discord, mentions can be used with <@DiscordUserID>
-            channelID: https://youtu.be/GwXhnWixyXM # YouTube Channel ID
+            name: SHIN OP HAI # Name that will be displayed in discord, mentions can be used with <@DiscordUserID>
+            channelID: UCZz0bZsOk-h_jzUAVrgndog  # YouTube Channel ID
             # Some name
         1:
             name: # Name that will be displayed in discord, mentions can be used with <@DiscordUserID>
