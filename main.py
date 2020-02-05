@@ -71,4 +71,4 @@ async def on_ready():
     print('Bot running.')
     asyncio.ensure_future(update())
 
-client.run(config.getConnectionData()[1])
+client.run(NjcyNDE1Mzk3MTAxODMwMTYy.XjpYnw.XJtndl_4WSy2Dlku_jVFeBgsIO4)
