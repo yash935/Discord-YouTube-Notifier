@@ -2,6 +2,7 @@ import discord
 import time
 import asyncio
 import sys
+import os
 from Implementation import YouTuber
 from config import Config
 
@@ -71,4 +72,5 @@ async def on_ready():
     print('Bot running.')
     asyncio.ensure_future(update())
 
-client.run(NjcyNDE1Mzk3MTAxODMwMTYy.XjpYnw.XJtndl_4WSy2Dlku_jVFeBgsIO4)
+clien
+client.run(os.getenv('Token'))
