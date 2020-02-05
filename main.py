@@ -72,5 +72,5 @@ async def on_ready():
     print('Bot running.')
     asyncio.ensure_future(update())
 
-clien
+Ui
 client.run(os.getenv('Token'))
